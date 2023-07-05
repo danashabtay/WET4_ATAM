@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/technion/ATAM/4/WET4_ATAM/elf64.h">
+			<Option target="WET4_ATAM"/>
+		</Unit>
+		<Unit filename="C:/technion/ATAM/4/WET4_ATAM/find_symbol.h">
+			<Option target="WET4_ATAM"/>
+		</Unit>
 		<Unit filename="C:/technion/ATAM/4/WET4_ATAM/main.cpp">
 			<Option target="WET4_ATAM"/>
 		</Unit>

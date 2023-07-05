@@ -3,4 +3,4 @@ project(WET4_ATAM)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(WET4_ATAM main.cpp)
+add_executable(WET4_ATAM main.cpp elf64.h find_symbol.h)
