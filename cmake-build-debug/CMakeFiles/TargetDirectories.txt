@@ -1,0 +1,3 @@
+C:/technion/ATAM/4/WET4_ATAM/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/technion/ATAM/4/WET4_ATAM/cmake-build-debug/CMakeFiles/WET4_ATAM.dir
+C:/technion/ATAM/4/WET4_ATAM/cmake-build-debug/CMakeFiles/edit_cache.dir
